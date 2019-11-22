@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.0" xmlns:t3="http://typo3.org/schemas/xliff">
+    <file source-language="en" datatype="plaintext" original="messages" product-name="cms">
+        <header/>
+        <body>
+            <trans-unit id="tx_cvc_webauthn_keys.title">
+                <source>WebAuthn security keys</source>
+                <target>WebAuthn-Sicherheitsschlüssel</target>
+            </trans-unit>
+            <trans-unit id="tx_cvc_webauthn_keys.description">
+                <source>Security key Description</source>
+                <target>Sicherheitsschlüssel-Beschreibung</target>
+            </trans-unit>
+            <trans-unit id="tx_cvc_webauthn_keys.content">
+                <source>Security key Content</source>
+                <target>Sicherheitsschlüssel-Inhalt</target>
+            </trans-unit>
+            <trans-unit id="tx_cvc_webauthn_keys.beUser">
+                <source>Backend User</source>
+                <target>Backend-Benutzer</target>
+            </trans-unit>
+            <trans-unit id="be_users.tx_cvcwebauthn_keys">
+                <source>Your security keys</source>
+                <target>Ihre Sicherheitsschlüssel</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
